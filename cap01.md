@@ -2,8 +2,8 @@
 DOCID: cap01
 TITULO: CAP01
 TIPO-ARQUIVO: PDF
-ORIGEM: /Users/adrianohamu/Documents/Adriano Hamu-DocsStudio/01DocsExternoServidorMac/09ACOB/08CAP/CAP01.pdf
-DATA-CONVERSAO: 2025-11-11 14:15:19
+ORIGEM: /Users/adrianohamu/Desktop/Docs/CAP01.pdf
+DATA-CONVERSAO: 2025-11-11 14:39:38
 HASH-ORIGEM: 11e24a6698c2f118fb77fdb9379596717c2a40995929e5e2af821ceadc99435d
 OBS: Texto derivado para leitura acessível; prevalece o original.
 ---
@@ -6660,7 +6660,7 @@ EFEITOS:
 
 -------------------------------------------------------------------------------
 FONTE ORIGINAL: CAP01.pdf
-LOCALIZACAO: /Users/adrianohamu/Documents/Adriano Hamu-DocsStudio/01DocsExternoServidorMac/09ACOB/08CAP
+LOCALIZACAO: /Users/adrianohamu/Desktop/Docs
 HASH-ORIGEM: 11e24a6698c2f118fb77fdb9379596717c2a40995929e5e2af821ceadc99435d
 NOTA DE GOVERNANCA: Texto derivado para leitura acessível. Em caso de divergência, prevalece o original (cadeia de custódia preservada).
 -------------------------------------------------------------------------------
